@@ -6,7 +6,7 @@
         "email": "tonymiyo132@gmail.com",
         "phone": "(+51) 9869-155-82",
         "url": "https://tonym.com",
-        "summary": "A summary of John Doe…",
+        "summary": "Soy una persona altamente comprometida, poseo una sólida base de conocimientos guiado por principios éticos y morales. Disfruto colaborar en equipo y siempre estoy dispuesto a continuar aprendiendo. Mi objetivo es lograr el éxito colectivo asumiendo responsabilidades y superando desafíos.",
         "location": {
             "city": "Arequipa",
             "countryCode": "PE",
@@ -27,12 +27,12 @@
     },
     "work": [
         {
-            "name": "Company",
-            "position": "President",
+            "name": "Nada aún . . .",
+            "position": "BackEnd",
             "url": "https://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description…",
+            "startDate": "2023-01-01",
+            "endDate": "2024-01-01",
+            "summary": "En busca de experiencia laboral.",
             "highlights": [
                 "Started the company"
             ]
@@ -53,12 +53,12 @@
     ],
     "education": [
         {
-            "institution": "University",
-            "url": "https://institution.com/",
-            "area": "Software Development",
-            "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
+            "institution": "Universidad Nacional de San Agustin",
+            "url": "https://www.unsa.edu.pe/",
+            "area": "Ingenieria de Sistemas",
+            "studyType": "Egresado",
+            "startDate": "2020-04-01",
+            "endDate": "2024-12-01",
             "score": "4.0",
             "courses": [
                 "DB1101 - Basic SQL"
@@ -92,12 +92,59 @@
     ],
     "skills": [
         {
-            "name": "Web Development",
-            "level": "Master",
+            "name": "HTML",
+            "level": "Intermedio",
             "keywords": [
-                "HTML",
-                "CSS",
-                "JavaScript"
+                "Desarrolo Web",
+                "Frontend"
+            ]
+        },
+        {
+            "name": "CSS",
+            "level": "Intermedio",
+            "keywords": [
+                "Desarrolo Web",
+                "Frontend",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "level": "Intermedio",
+            "keywords": [
+                "Desarrolo Web",
+                "Frontend",
+                "Backend"
+            ]
+        },
+        {
+            "name": "MySQL",
+            "level": "Intermedio",
+            "keywords": [
+                "Bases de Datos",
+                "SQL",
+                "Almacenamiento de Datos",
+                "Backend"
+            ]
+        },
+        {
+            "name": "React",
+            "level": "Básico",
+            "keywords": [
+                "Desarrolo Web",
+                "Frontend",
+                "UI",
+                "JavaScript Library"
+            ]
+        },
+        {
+            "name": "GitHub",
+            "level": "Básico",
+            "keywords": [
+                "Control de versiones",
+                "Colaboración",
+                "Código Fuente",
+                "Git"
             ]
         }
     ],
@@ -128,14 +175,36 @@
     ],
     "projects": [
         {
-            "name": "Project",
-            "startDate": "2019-01-01",
-            "endDate": "2021-01-01",
-            "description": "Description...",
+            "name": "SGBD app",
+            "isActive": false,
+            "description": "Aplicación conectada a MySQL para gestionar bases de Datos",
             "highlights": [
-                "Won award at AIHacks 2016"
+                "Trabajo de fin de curso",
+                "Python"
             ],
-            "url": "https://project.com/"
+            "url": ""
+        },
+        {
+            "name": "Aguaymanto IA",
+            "isActive": true,
+            "description": "Aplicación que utiliza una IA para detectar el nivel de madurez del aguaymanto",
+            "highlights": [
+                "Trabajo de fin de curso",
+                "TensorFlow",
+                "Python",
+                "Html, CSS & JavaScript"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Página de Cursos",
+            "isActive": true,
+            "description": "Una página web que dispine cursos de matemática para estudiantes de primaria.",
+            "highlights": [
+                "Trabajo de fin de curso",
+                "Html, CSS & JavaScript"
+            ],
+            "url": ""
         }
     ]
 }
